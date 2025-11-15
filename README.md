@@ -1,6 +1,6 @@
 # Ex.3 Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
-## NAME: JAYASURYA B
-## REGISTER NUMBER: 212224100026
+## NAME: Thamizharasi G
+## REGISTER NUMBER: 212224100059
 ## Aim:
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
 
